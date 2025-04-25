@@ -114,9 +114,9 @@ vbnet
 
 This **`README.md`** file contains all the necessary setup instructions for installing dependencies, running the app on Android/iOS, and using AsyncStorage for persistence. 
 
-Figma Link:https://www.figma.com/design/80zQJWkysmOCxj9Q1RMopa/to-do-app?node-id=0-1&m=dev&t=9C683iVrG0J2HU7R-1
-Vedio Link:https://github.com/user-attachments/assets/2af0606e-58f0-4afe-a41e-2de9f5f10307
-github repository link:https://github.com/Thagya/Todo-App-SE-2021-062.git
+   Figma Link:https://www.figma.com/design/80zQJWkysmOCxj9Q1RMopa/to-do-app?node-id=0-1&m=dev&t=9C683iVrG0J2HU7R-1
+   Vedio Link:https://github.com/user-attachments/assets/2af0606e-58f0-4afe-a41e-2de9f5f10307
+   github repository link:https://github.com/Thagya/Todo-App-SE-2021-062.git
 
 ## 🗂 Folder Structure
 
@@ -128,9 +128,8 @@ ToDoListApp/
 │   ├── screens/        # Main app screens 
 │   ├── store/          # Utility functions like AsyncStorage handlers and Zustand state 
                           management files
-│   ├── styles/           # Centralized style definitions
+│   ├── styles/         # Centralized style definitions
 │   └── assets/
-           # Root component
-├── App.tsx               # App icons, images (if any)
-
+                           # Root component
+├── App.tsx  
 
